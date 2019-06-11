@@ -1,4 +1,3 @@
-We haven't used these annotations in our work, but feel free to use them if you want to. 
 @inproceedings{parmar2019and,
   title={What and How Well You Performed? A Multitask Learning Approach to Action Quality Assessment},
   author={Parmar, Paritosh and Tran Morris, Brendan},
@@ -6,3 +5,6 @@ We haven't used these annotations in our work, but feel free to use them if you 
   pages={304--313},
   year={2019}
 }
+
+
+We haven't used these annotations in our work, but feel free to use them if you want to. 
