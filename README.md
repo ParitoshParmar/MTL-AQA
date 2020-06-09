@@ -16,3 +16,4 @@ This repository contains MTL-AQA dataset introduced in the above paper. If you f
 ## MTL-AQA Concept:
 
 <p align="center"> <img src="diving_sample.gif?raw=true" alt="diving_video"/> </p>
+<p align="center"> <img src="mtlaqa_concept.png?raw=true" alt="mtl_net"/> </p>
