@@ -1,6 +1,13 @@
 # MTL-AQA
 [What and How Well You Performed? A Multitask Learning Approach to Action Quality Assessment](https://arxiv.org/abs/1904.04346)
 
+
+## MTL-AQA Concept:
+
+<p align="center"> <img src="diving_sample.gif?raw=true" alt="diving_video" width="200"/> </p>
+<p align="center"> <img src="mtlaqa_concept.png?raw=true" alt="mtl_net" width="400"/> </p>
+
+
 This repository contains MTL-AQA dataset + code introduced in the above paper. If you find this dataset or code useful, please consider citing:
 ```
 @inproceedings{mtlaqa,
@@ -11,9 +18,3 @@ This repository contains MTL-AQA dataset + code introduced in the above paper. I
   year={2019}
 }
 ```
-
-
-## MTL-AQA Concept:
-
-<p align="center"> <img src="diving_sample.gif?raw=true" alt="diving_video" width="200"/> </p>
-<p align="center"> <img src="mtlaqa_concept.png?raw=true" alt="mtl_net" width="400"/> </p>
