@@ -1,6 +1,8 @@
 # MTL-AQA
 [What and How Well You Performed? A Multitask Learning Approach to Action Quality Assessment](https://arxiv.org/abs/1904.04346)
 
+<b>***</b> <i>Want to know the score of a Dive at the ongoing Olympics, even before the judges' decision?</i> <b>Try out our [AI Olympics Judge](https://share.streamlit.io/gitskim/aqa_streamlit/main/main.py) ***</b>
+
 
 ## MTL-AQA Concept:
 
