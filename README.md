@@ -20,3 +20,7 @@ This repository contains MTL-AQA dataset + code introduced in the above paper. I
   year={2019}
 }
 ```
+
+## Check out our other relevant works:
+
+[Fine-grained Exercise Action Quality Assessment](https://github.com/ParitoshParmar/Fitness-AQA): Self-Supervised Pose-Motion Contrastive Approaches for Fine-grained Action Quality Assessment (can be used for Diving as well!) + Fitness-AQA dataset
