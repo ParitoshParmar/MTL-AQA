@@ -1,12 +1,6 @@
 # MTL-AQA
 [What and How Well You Performed? A Multitask Learning Approach to Action Quality Assessment](https://arxiv.org/abs/1904.04346)
 
-## 🚀 Also Check Out Our New Approach! 🚀
-**Oct 2024:** We have developed a new approach, [NeuroSymbolic AQA](https://arxiv.org/abs/2403.13798), that builds upon this approach, but also analyses and scores using **Professional Rules-based** programs. It is *Comprehensive* and *Explainable* AQA which can generate **Full Performance Reports** for *Actionable* Insights!!! We encourage you to checkout [[Code, Rules-based Programs, Dataset](https://github.com/laurenok24/NSAQA)] [[Demo](https://huggingface.co/spaces/X-NS/NSAQA)] [[Full Paper](https://arxiv.org/abs/2403.13798)]
-
-You are welcome to continue using this project, as it will still be maintained alongside the new approach!
-
-
 ## MTL-AQA Concept:
 
 <p align="center"> <img src="diving_sample.gif?raw=true" alt="diving_video" width="200"/> </p>
@@ -23,6 +17,12 @@ This repository contains MTL-AQA dataset + code introduced in the above paper. I
   year={2019}
 }
 ```
+
+
+## 🚀 Also Check Out Our New Approach! 🚀
+**Oct 2024:** We have developed a new approach, [NeuroSymbolic AQA](https://arxiv.org/abs/2403.13798), that builds upon this approach, but also analyses and scores using **Professional Rules-based** programs. It is *Comprehensive* and *Explainable* AQA which can generate **Full Performance Reports** for *Actionable* Insights!!! We encourage you to checkout [[Code, Rules-based Programs, Dataset](https://github.com/laurenok24/NSAQA)] [[Demo](https://huggingface.co/spaces/X-NS/NSAQA)] [[Full Paper](https://arxiv.org/abs/2403.13798)]
+
+You are welcome to continue using this project, as it will still be maintained alongside the new approach!
 
 ## Check out our other relevant works:
 
