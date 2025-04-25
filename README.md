@@ -1,3 +1,6 @@
+## 📢 Announcement: Workshop on Action Quality Assessment at ICCV 2025! 📢
+**April 2025** 📢 📢 📢 We will be organizing **Workshop** on [*Skilled Activity Understanding, Assessment and Feedback Generation* (SAUAFG)](https://sauafg-workshop.github.io/) at **ICCV 2025!** More info on [SAUAFG Website](https://sauafg-workshop.github.io/). **Consider submitting your papers!** See you in Honolulu, Hawaii!
+
 # MTL-AQA
 [What and How Well You Performed? A Multitask Learning Approach to Action Quality Assessment](https://arxiv.org/abs/1904.04346)
 
