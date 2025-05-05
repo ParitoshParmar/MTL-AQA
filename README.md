@@ -9,6 +9,7 @@
 <p align="center"> <img src="diving_sample.gif?raw=true" alt="diving_video" width="200"/> </p>
 <p align="center"> <img src="mtlaqa_concept.png?raw=true" alt="mtl_net" width="400"/> </p>
 
+If you want to train **Pose Estimators** and **Object Detectors** for **AQA/Diving**, we provide that data: [here](https://github.com/laurenok24/NSAQA)
 
 This repository contains MTL-AQA dataset + code introduced in the above paper. If you find this dataset or code useful, please consider citing:
 ```
